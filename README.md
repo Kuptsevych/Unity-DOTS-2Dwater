@@ -2,4 +2,4 @@
 
 2D water made with Unity3d DOTS 
 
-![](watergif.gif)
+![](2dwater.gif)
